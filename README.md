@@ -30,7 +30,9 @@
 - Build the movie list
 - Build movie card
 - TMDB image CDN URL
-
+- GPT search page
+- GPT search bar 
+- Multilingual feature
 
  
 
