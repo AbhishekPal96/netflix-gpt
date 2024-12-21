@@ -9,7 +9,7 @@ export const API_OPTIONS = {
   headers: {
     accept: "application/json",
     Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZWI2ZjhiMzU2OTZhODRkZjRlYjE3NDhjZGM0YWMyYyIsIm5iZiI6MTcyODIwMjg0OS44MzY1ODcsInN1YiI6IjY3MDI0NTBmOTI1ZmRmOTI1YjdkMzY3MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.-97_TvwSzEDgDTMYtjXQ7F29aaJlxpCWo660kjweeWE",
+    "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZWI2ZjhiMzU2OTZhODRkZjRlYjE3NDhjZGM0YWMyYyIsIm5iZiI6MTcyODIwMjg0OS44MzY1ODcsInN1YiI6IjY3MDI0NTBmOTI1ZmRmOTI1YjdkMzY3MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.-97_TvwSzEDgDTMYtjXQ7F29aaJlxpCWo660kjweeWE",
   },
 };
 
@@ -24,3 +24,8 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "spn", name: "Spanish" },
   { identifier: "de", name: "German" },
 ];
+
+
+
+
+export const GEMINI_KEY = "AIzaSyAVqL311SyfpRjPqwvi5y5YbNIk-TOsAOc";

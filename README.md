@@ -33,7 +33,12 @@
 - GPT search page
 - GPT search bar 
 - Multilingual feature
-
+- Gemini API Key
+- GPT Search API Call
+- GPT movie suggestion from TMDB
+- Added fetched data to gptSlice
+- Memoization
+- Responsive site
  
 
  
